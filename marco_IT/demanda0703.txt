@@ -1,0 +1,6 @@
+-Estudar MCMC - markov chain monte carlo, nas simulações do 
+alpha, beta, sigma 
+livro do gilks Desde o começo gilks
+Estudar o update de cada valor de acordo com as posterioris dadas
+e como acontece o incremento de cada valor
+ 

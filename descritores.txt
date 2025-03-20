@@ -1,0 +1,5 @@
+1."bayesian" "time series"  "lags" "partial autocorrelation" "categorical variables"
+2."bayesian network" "time series"  "lags" "partial autocorrelation" "categorical variables"
+3."bayesian network" "time series" "partial autocorrelation" "categorical variables"
+4."bayesian network" "time series" "partial autocorrelation" "discretization"
+5."bayesian network" and "time series" and "partial autocorrelation"and "discretization" and "fuel"

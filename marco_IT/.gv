@@ -1,0 +1,20 @@
+digraph {
+	beta [label="beta
+~
+Normal" shape=ellipse]
+	alpha [label="alpha
+~
+Normal" shape=ellipse]
+	sigma [label="sigma
+~
+HalfNormal" shape=ellipse]
+	subgraph "clustertempo (250)" {
+		precos [label="precos
+~
+Normal" shape=ellipse style=filled]
+		label="tempo (250)" labeljust=r labelloc=b style=rounded
+	}
+	beta -> precos
+	alpha -> precos
+	sigma -> precos
+}
