@@ -1,2 +1,0 @@
-Ver dissertação ou tese do professor, pra ver a ilustração do MCMC.
-Estudar Monte carlo, e o metodo de aceitação rejeição.
