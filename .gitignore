@@ -173,3 +173,6 @@ cython_debug/
 key.py
 notebook copy.ipynb
 marco_IT/
+notebooks/
+data/
+Abril_IT/
