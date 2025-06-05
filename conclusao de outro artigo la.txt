@@ -1,0 +1,11 @@
+Realizamos um estudo em larga escala comparando
+ o desempenho de diferentes transformações de 
+entrada e saída quando combinadas com vários 
+tipos de modelos diferentes. Nossa investigação
+ esclarece até que ponto essas transformações afetam 
+o desempenho preditivo de diferentes arquiteturas de 
+modelos, com a conclusão geral de que escolher e ajustar
+ cuidadosamente as transformações de entrada e saída
+ é importante, pois isso tem um grande impacto no 
+desempenho preditivo dos modelos, potencialmente maior 
+do que a diferença de desempenho entre as arquiteturas dos modelos.
